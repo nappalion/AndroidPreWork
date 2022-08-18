@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPreWork</string>
+    <string name="marin_intro">Hello! This is Marin Kitagawa.</string>
+    <string name="button_text">Say Hello</string>
+</resources>
